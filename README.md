@@ -10,6 +10,8 @@ fclusterdata(X, 1.0, metric=DistributionClusteringMetric)
 
 ##### Implementation
 
+<!-- Equations generated with https://www.codecogs.com/latex/eqneditor.php -->
+
 1. For subvariable x^1 with time series length i:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x^1=[x_1^1&space;,x_2^1&space;,x_3^1&space;...x_i^1&space;]&space;...&space;[1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^1=[x_1^1&space;,x_2^1&space;,x_3^1&space;...x_i^1&space;]&space;...&space;[1]" title="x^1=[x_1^1 ,x_2^1 ,x_3^1 ...x_i^1 ] ... [1]" /></a>
